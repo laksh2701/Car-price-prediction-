@@ -2,7 +2,6 @@
 Price prediction using Machine learning models 
 
 #Objective-
-Perform thorough exploratory data analysis and preprocessing to unveil insights, patterns, and enhance data quality.
 ![image](https://github.com/laksh2701/Car-price-prediction-/assets/116880844/ceeed17d-c92f-4721-b3b5-0e1178c0cc04)
 
 
@@ -27,7 +26,7 @@ Perform thorough exploratory data analysis and preprocessing to unveil insights,
 
 
 #Learning- 
-We got better at using regression tools, tweaking settings, and finding important features by taking help of online resources.
+* We got better at using regression tools, tweaking settings, and finding important features by taking help of online resources.
 
 
 
